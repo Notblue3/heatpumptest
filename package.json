@@ -1,0 +1,15 @@
+{
+  "name": "heat-pump-quote-scraper",
+  "version": "1.0.0",
+  "description": "A web app for displaying hot water heat pump quotes",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^4.3.9"
+  }
+}
